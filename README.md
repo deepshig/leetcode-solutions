@@ -8,3 +8,4 @@ Solutions to the following Leetcode problems I attempted : Golang and Python
 * [#1351 : Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) : [Solution](/easy/count_negative_numbers)
 * [#804 : Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) : [Solution](/easy/morse_code_words)
 * [#709 : To Lower Case](https://leetcode.com/problems/to-lower-case/) : [Solution](/easy/to_lower_case)
+* [#1221 : Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) : [Solution](/easy/balance_string)
