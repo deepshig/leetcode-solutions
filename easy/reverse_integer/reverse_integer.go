@@ -49,5 +49,4 @@ func main() {
 	fmt.Println("Solution 1 : ", reverse(123))
 	fmt.Println("Solution 2 : ", reverse(-123))
 	fmt.Println("Solution 3 : ", reverse(120))
-	fmt.Println(math.MaxInt32)
 }

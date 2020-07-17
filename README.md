@@ -13,6 +13,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#709 : To Lower Case](https://leetcode.com/problems/to-lower-case/) : [Solution](/easy/to_lower_case)
 * [#1221 : Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) : [Solution](/easy/balance_string)
 * [#7 : Reverse Integer](https://leetcode.com/problems/reverse-integer/) : [Solution](/easy/reverse_integer)
+* [#665 : Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) : [Solution](/easy/non_decreasing_array)
 
 ## Medium:
 
