@@ -1,6 +1,9 @@
 # Leetcode Solutions
 
 Solutions to the following Leetcode problems I attempted : Golang and Python
+Segregation is done based on difficulty levels tagged on the leetcode website.
+
+## Easy:
 * [#1480 : Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array) : [Solution](/easy/running_sum_1d)
 * [#1512 : Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) : [Solution](/easy/good_pairs)
 * [#1470 : Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) : [Solution](/easy/shuffle_array)
@@ -9,3 +12,8 @@ Solutions to the following Leetcode problems I attempted : Golang and Python
 * [#804 : Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) : [Solution](/easy/morse_code_words)
 * [#709 : To Lower Case](https://leetcode.com/problems/to-lower-case/) : [Solution](/easy/to_lower_case)
 * [#1221 : Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) : [Solution](/easy/balance_string)
+* [#7 : Reverse Integer](https://leetcode.com/problems/reverse-integer/) : [Solution](/easy/reverse_integer)
+
+## Medium:
+
+## Hard:
