@@ -15,7 +15,8 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#7 : Reverse Integer](https://leetcode.com/problems/reverse-integer/) : [Solution](/easy/reverse_integer)
 * [#665 : Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) : [Solution](/easy/non_decreasing_array)
 * [#859 : Buddy Strings](https://leetcode.com/problems/buddy-strings/) : [Solution](/easy/buddy_strings)
-* [#8414 : Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) : [Solution](/easy/third_max)
+* [#414 : Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) : [Solution](/easy/third_max)
+* [#168 : Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) : [Solution](/easy/excel_sheet_column)
 
 ## Medium:
 
