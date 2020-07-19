@@ -14,6 +14,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#1221 : Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) : [Solution](/easy/balance_string)
 * [#7 : Reverse Integer](https://leetcode.com/problems/reverse-integer/) : [Solution](/easy/reverse_integer)
 * [#665 : Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) : [Solution](/easy/non_decreasing_array)
+* [#859 : Buddy Strings](https://leetcode.com/problems/buddy-strings/) : [Solution](/easy/buddy_strings)
 
 ## Medium:
 
