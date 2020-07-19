@@ -18,6 +18,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#414 : Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) : [Solution](/easy/third_max)
 * [#168 : Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) : [Solution](/easy/excel_sheet_column)
 * [#581 : Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) : [Solution](/easy/unsorted_subarray)
+* [#1464 : Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) : [Solution](/easy/max_product)
 
 ## Medium:
 
