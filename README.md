@@ -20,6 +20,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#581 : Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) : [Solution](/easy/unsorted_subarray)
 * [#1464 : Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) : [Solution](/easy/max_product)
 * [#944 : Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) : [Solution](/easy/delete_columns)
+* [#344 : Reverse String](https://leetcode.com/problems/reverse-string/) : [Solution](/easy/reverse_string)
 
 ## Medium:
 
