@@ -23,6 +23,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#344 : Reverse String](https://leetcode.com/problems/reverse-string/) : [Solution](/easy/reverse_string)
 * [#1021 : Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) : [Solution](/easy/remove_parantheses)
 * [#599 : Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) : [Solution](/easy/min_index_sum)
+* [#122 : Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) : [Solution](/easy/stock_2)
 
 ## Medium:
 
