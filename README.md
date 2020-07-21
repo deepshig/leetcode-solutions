@@ -22,6 +22,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#944 : Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) : [Solution](/easy/delete_columns)
 * [#344 : Reverse String](https://leetcode.com/problems/reverse-string/) : [Solution](/easy/reverse_string)
 * [#1021 : Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) : [Solution](/easy/remove_parantheses)
+* [#599 : Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) : [Solution](/easy/min_index_sum)
 
 ## Medium:
 
