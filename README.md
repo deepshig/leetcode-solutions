@@ -21,6 +21,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#1464 : Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) : [Solution](/easy/max_product)
 * [#944 : Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) : [Solution](/easy/delete_columns)
 * [#344 : Reverse String](https://leetcode.com/problems/reverse-string/) : [Solution](/easy/reverse_string)
+* [#1021 : Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) : [Solution](/easy/remove_parantheses)
 
 ## Medium:
 
