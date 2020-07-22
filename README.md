@@ -26,6 +26,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#122 : Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) : [Solution](/easy/stock_2)
 * [#1266 : Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) : [Solution](/easy/visit_points)
 * [#733 : Flood Fill](https://leetcode.com/problems/flood-fill/) : [Solution](/easy/flood_fill)
+* [#53 : Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) : [Solution](/easy/max_sum_subarray)
 
 ## Medium:
 
