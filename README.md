@@ -27,6 +27,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#1266 : Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) : [Solution](/easy/visit_points)
 * [#733 : Flood Fill](https://leetcode.com/problems/flood-fill/) : [Solution](/easy/flood_fill)
 * [#53 : Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) : [Solution](/easy/max_sum_subarray)
+* [#840 : Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) : [Solution](/easy/magic_squares)
 
 ## Medium:
 
