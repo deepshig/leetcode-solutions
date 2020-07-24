@@ -31,6 +31,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#1450 : Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) : [Solution](/easy/students_hw)
 * [#292 : Nim Game](https://leetcode.com/problems/nim-game/) : [Solution](/easy/nim_game)
 * [#283 : Move Zeroes](https://leetcode.com/problems/move-zeroes/) : [Solution](/easy/move_zeroes)
+* [#232 : Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) : [Solution](/easy/queue_using_stack)
 
 ## Medium:
 
