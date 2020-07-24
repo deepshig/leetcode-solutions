@@ -28,6 +28,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#733 : Flood Fill](https://leetcode.com/problems/flood-fill/) : [Solution](/easy/flood_fill)
 * [#53 : Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) : [Solution](/easy/max_sum_subarray)
 * [#840 : Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) : [Solution](/easy/magic_squares)
+* [#1450 : Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) : [Solution](/easy/students_hw)
 
 ## Medium:
 
