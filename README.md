@@ -38,6 +38,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#189 : Rotate Array](https://leetcode.com/problems/rotate-array/) : [Solution](/easy/rotate_array)
 * [#448 : Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) : [Solution](/easy/disappeared_numbers)
 * [#628 : Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) : [Solution](/easy/max_product_of_3_numbers)
+* [#1436 : Destination City](https://leetcode.com/problems/destination-city/) : [Solution](/easy/destination_city)
 
 ## Medium:
 
