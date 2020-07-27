@@ -35,6 +35,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#58 : Length of Last Word](https://leetcode.com/problems/length-of-last-word/) : [Solution](/easy/last_word_len)
 * [#367 : Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) : [Solution](/easy/perfect_square)
 * [#141 : Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) : [Solution](/easy/linked_list_cycle)
+* [#189 : Rotate Array](https://leetcode.com/problems/rotate-array/) : [Solution](/easy/rotate_array)
 
 ## Medium:
 
