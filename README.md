@@ -39,6 +39,8 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#448 : Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) : [Solution](/easy/disappeared_numbers)
 * [#628 : Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) : [Solution](/easy/max_product_of_3_numbers)
 * [#1436 : Destination City](https://leetcode.com/problems/destination-city/) : [Solution](/easy/destination_city)
+* [#203 : Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) : [Solution](/easy/remove_linked_list_elements)
+* [#703 : Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) : [Solution](/easy/kth_largest_stream)
 
 ## Medium:
 
