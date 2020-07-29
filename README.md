@@ -44,6 +44,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#876 : Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) : [Solution](/easy/middle_node_linked_list)
 * [#1290 : Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) : [Solution](/easy/binary_number_to_integer_linked_list)
 * [#206 : Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) : [Solution](/easy/reverse_linked_list)
+* [#83 : Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) : [Solution](/easy/remove_duplicates)
 * [#703 : Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) : [Solution](/easy/kth_largest_stream)
 
 ## Medium:
