@@ -46,6 +46,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#206 : Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) : [Solution](/easy/linked_list/reverse_linked_list)
 * [#83 : Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) : [Solution](/easy/linked_list/remove_duplicates)
 
+### Randoms
 * [#168 : Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) : [Solution](/easy/excel_sheet_column)
 * [#292 : Nim Game](https://leetcode.com/problems/nim-game/) : [Solution](/easy/nim_game)
 * [#367 : Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) : [Solution](/easy/perfect_square)
