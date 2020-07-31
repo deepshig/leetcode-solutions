@@ -38,6 +38,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#1436 : Destination City](https://leetcode.com/problems/destination-city/) : [Solution](/easy/array/destination_city)
 * [#532 : K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) : [Solution](/easy/array/k_diff_pairs)
 * [#605 : Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) : [Solution](/easy/array/place_flowers)
+* [#941 : Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) : [Solution](/easy/array/mountain_array)
 
 ### Linked List
 * [#141 : Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) : [Solution](/easy/linked_list/linked_list_cycle)
