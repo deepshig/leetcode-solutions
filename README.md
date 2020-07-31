@@ -36,6 +36,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#448 : Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) : [Solution](/easy/array/disappeared_numbers)
 * [#628 : Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) : [Solution](/easy/array/max_product_of_3_numbers)
 * [#1436 : Destination City](https://leetcode.com/problems/destination-city/) : [Solution](/easy/array/destination_city)
+* [#532 : K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) : [Solution](/easy/array/k_diff_pairs)
 
 ### Linked List
 * [#141 : Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) : [Solution](/easy/linked_list/linked_list_cycle)
