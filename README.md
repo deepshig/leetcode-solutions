@@ -39,6 +39,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#532 : K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) : [Solution](/easy/array/k_diff_pairs)
 * [#605 : Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) : [Solution](/easy/array/place_flowers)
 * [#941 : Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) : [Solution](/easy/array/mountain_array)
+* [#914 : X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) : [Solution](/easy/array/x_card_partition)
 
 ### Linked List
 * [#141 : Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) : [Solution](/easy/linked_list/linked_list_cycle)
