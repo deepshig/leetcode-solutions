@@ -40,6 +40,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#605 : Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) : [Solution](/easy/array/place_flowers)
 * [#941 : Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) : [Solution](/easy/array/mountain_array)
 * [#914 : X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) : [Solution](/easy/array/x_card_partition)
+* [#771 : Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) : [Solution](/easy/array/jewels)
 
 ### Linked List
 * [#141 : Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) : [Solution](/easy/linked_list/linked_list_cycle)
