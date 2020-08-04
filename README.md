@@ -45,6 +45,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#219 : Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) : [Solution](/easy/array/duplicates_2)
 * [#205 : Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) : [Solution](/easy/array/isomorphic_strings)
 * [#645 : Set Mismatch](https://leetcode.com/problems/set-mismatch/) : [Solution](/easy/array/set_mismatch)
+* [#1 : Two Sum](https://leetcode.com/problems/two-sum/) : [Solution](/easy/array/two_sum)
 
 ### Linked List
 * [#141 : Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) : [Solution](/easy/linked_list/linked_list_cycle)
