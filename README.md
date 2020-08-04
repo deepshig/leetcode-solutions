@@ -43,6 +43,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#771 : Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) : [Solution](/easy/array/jewels)
 * [#290 : Word Pattern](https://leetcode.com/problems/word-pattern/) : [Solution](/easy/array/word_pattern)
 * [#219 : Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) : [Solution](/easy/array/duplicates_2)
+* [#205 : Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) : [Solution](/easy/array/isomorphic_strings)
 
 ### Linked List
 * [#141 : Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) : [Solution](/easy/linked_list/linked_list_cycle)
