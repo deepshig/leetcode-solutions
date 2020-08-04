@@ -59,6 +59,7 @@ Segregation is done based on difficulty levels tagged on the leetcode website.
 * [#292 : Nim Game](https://leetcode.com/problems/nim-game/) : [Solution](/easy/nim_game)
 * [#367 : Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) : [Solution](/easy/perfect_square)
 * [#232 : Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) : [Solution](/easy/queue_using_stack)
+* [#970 : Powerful Integers](https://leetcode.com/problems/powerful-integers/) : [Solution](/easy/randoms/powerful_integers)
 * [#703 : Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) : [Solution](/easy/kth_largest_stream)
 
 ## Medium:
